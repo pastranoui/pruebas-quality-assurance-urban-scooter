@@ -18,3 +18,9 @@ Some defects blocked the execution of dependent test cases, preventing further v
 
 ## Tools & Techniques
 Mind Mapping, Checklists, Functional Testing, Mobile Testing, API Testing, Equivalence Partitioning, Boundary Value Analysis, Input Validation, Requirements Analysis, Jira.
+
+## Key Findings & User Impact
+
+Testing revealed multiple defects affecting application functionality, data validation, and the execution of certain user flows. Some issues prevented dependent functionalities from being tested, limiting the validation of specific scenarios.
+
+These defects could potentially lead to incorrect behavior, failed operations, inconsistent user experiences, or difficulties completing certain actions within the application. Identifying and documenting these issues helped highlight areas requiring improvement to ensure a more reliable and consistent experience for users.
